@@ -1,2 +1,2 @@
 # project_one
-print ("Hello, universe.")
+print ("i love divina may")
